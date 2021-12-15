@@ -6,7 +6,7 @@ Authentication Android application using <a href="https://firebase.google.com/">
 ### **App Features Firebase Authentication with Google Account** :
 
 - **_Firebase_**
-  - `Authentication with ` **`Google Account`**
+  - Authentication with **`Google Account`**
 
 ## Important!
 
