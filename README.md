@@ -84,9 +84,9 @@ public class MainActivity extends AppCompatActivity {
 
 **binding** in kotlin can be used directly without initializing **findViewById** on widgets in layout xml
 
-## Design UI App Firebase Authentication with Google Account
-
 <br>
+
+## Design UI App Firebase Authentication with Google Account
 
 ### **`Preview Firebase Auth with Google Account`**
 
